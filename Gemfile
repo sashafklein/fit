@@ -7,6 +7,7 @@ gem 'rails', '4.0.0.rc1'
 gem 'pg'
 gem 'annotate'
 gem 'haml'
+gem 'haml-rails', git: 'https://github.com/indirect/haml-rails'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0.rc1'
